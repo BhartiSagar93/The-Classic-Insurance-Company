@@ -46,6 +46,4 @@ Test Reports
 Test Metrics
 Test Plan I have created a Test Plan for the Project
 
-Project name: What.
-
-dad
+Project name: The Classic Insurance Company
